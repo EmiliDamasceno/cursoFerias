@@ -1,0 +1,2 @@
+# cursoFerias
+Primeiro epositório git
