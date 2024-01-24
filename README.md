@@ -1,2 +1,2 @@
-# cursoFerias
-Primeiro repositório git
+# CursoDeFerias
+Primeiro Repositório Git
